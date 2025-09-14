@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-security-cyber-security-flatart-icons-outline-flatarticons.png" alt="SOC Level 1" width="80"/>
+
 
 <br>
 <h2>SOC Level 1 Path - TryHackMe Notes</h2>
